@@ -34,3 +34,9 @@
 No, but also: ***Yes.***
 
 Haven't posted the source yet because im lazy
+
+# How does it look?
+
+Ass, just like you expected!
+
+![image](https://github.com/user-attachments/assets/bdaacff8-fc43-4bf7-a2b3-db87ea81f57e)
