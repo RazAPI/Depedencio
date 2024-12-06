@@ -33,5 +33,4 @@
 
 No, but also: ***Yes.***
 
-Haven't posted the source yet but i'll let you know once i figure out on how to send a whole 
-     
+Haven't posted the source yet because im lazy
