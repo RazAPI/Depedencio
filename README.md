@@ -10,8 +10,11 @@
    - Install dependencies for people who are running exploits, maybe 3rd party tools. Here's what it installs
  
      **Node.JS**
+     
      **MSWebView2**
+     
      **.NET SDK**
+     
      **Microsoft Visual Studio C++ Redist**
 
   # How do i install/use it?
