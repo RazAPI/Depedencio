@@ -21,7 +21,7 @@
     
  Create a folder named Dependio In your desktop. whatever location.
 
- Install all thing inside the debug folder
+ Install all things inside the debug folder
 
  Put everything inside the Dependio Folder
  
