@@ -1,4 +1,4 @@
-# Dependency Installer
+# 📜 Dependency Installer: Beauty in C# 
 
 - Ever wondered what happens when you mix boredness with boredness? You get a very random made out of no where project named Dependency-Installer.
 
@@ -28,4 +28,10 @@
  Run BootstrapperApp.exe
 
 > That's it.
+
+# Is it open-sourced?
+
+No, but also: ***Yes.***
+
+Haven't posted the source yet but i'll let you know once i figure out on how to send a whole 
      
