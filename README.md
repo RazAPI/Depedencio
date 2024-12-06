@@ -14,12 +14,12 @@
      **.NET SDK**
      **Microsoft Visual Studio C++ Redist**
 
-     - Anyways, that's all.
+  # How do i install/use it?
     
-> Create a folder named Dependio In your desktop. whatever location.
-> Install all thing inside the debug folder
-> Put everything inside the Dependio Folder
-> Run BootstrapperApp.exe
+ Create a folder named Dependio In your desktop. whatever location.
+ Install all thing inside the debug folder
+ Put everything inside the Dependio Folder
+ Run BootstrapperApp.exe
 
 > That's it.
      
